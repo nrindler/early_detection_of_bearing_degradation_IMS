@@ -1,0 +1,4 @@
+dset,start_ts,dir,colnames
+1,2003-10-22 12:06:24,C:\Users\nadav.rindler\OneDrive - American Red Cross\Training\GTxOMSA\Practicum\Data\IMS\1st_test,"['b1x', 'b1y', 'b2x', 'b2y', 'b3x', 'b3y', 'b4x', 'b4y', 'time', 'measurement_id', 'counter']"
+2,2004-02-12 10:32:39,C:\Users\nadav.rindler\OneDrive - American Red Cross\Training\GTxOMSA\Practicum\Data\IMS\2nd_test,"['b1x', 'b2x', 'b3x', 'b4x', 'time', 'measurement_id', 'counter']"
+3,2004-03-04 09:27:46,C:\Users\nadav.rindler\OneDrive - American Red Cross\Training\GTxOMSA\Practicum\Data\IMS\3rd_test\4th_test\txt,"['b1x', 'b2x', 'b3x', 'b4x', 'time', 'measurement_id', 'counter']"
