@@ -13,7 +13,7 @@ First, I define three bearing life stages – healthy, faulty, and failed – an
 ### Full Text
 See [**Rindler - SP24 Analytics Practicum - Final Report - Sandia Labs.pdf**](Rindler%20-%20SP24%20Analytics%20Practicum%20-%20Final%20Report%20-%20Sandia%20Labs.pdf).
 
-[img_TSS](Data/IMS/figures/ts2_b2x_seg_kt_EMA_new_ext.png)
+![TSS chart](Data/IMS/figures/ts2_b2x_seg_kt_EMA_new_ext.png)
 
 ### How to navigate this project
 **[Data](Data/IMS)**  
