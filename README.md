@@ -11,7 +11,7 @@ Prognostics is an engineering discipline that applies data science and machine l
 First, I define three bearing life stages – healthy, faulty, and failed – and identify two time series measures from the literature that are predictive of failure. I then discuss an attempt to apply a semi-supervised learning approach developed by [Juodelyte, et. al.](https://arxiv.org/abs/2203.03259) to new bearing data from three run-to-failure experiments published by the Center for Intelligent Maintenance Systems (IMS) in 2007 and accessed via the open-source [NASA Prognostics Data Repository](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/).  Finally, I identified a new unsupervised time series segmentation approach to detect phase change from the healthy to faulty states, allowing early detection before failure occurs.  This approach detects meaningful change in the bearing’s signal, on average 85% of the way through the bearing’s lifetime, and with sensitivity of 50% and specificity of 83%.  This approach is simple, reliable, and accurate. This analysis shows that early detection of bearing degradation is possible and has implications for improved predictive maintenance.
 
 ### Full Text
-See [**Rindler - SP24 Practicum Final Report.pdf**]().
+See [**Rindler - SP24 Analytics Practicum - Final Report - Sandia Labs.pdf**](Rindler%20-%20SP24%20Analytics%20Practicum%20-%20Final%20Report%20-%20Sandia%20Labs.pdf).
 
 [img_TSS]()
 
